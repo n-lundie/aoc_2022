@@ -9,5 +9,5 @@ pub fn run() {
     println!("Day 2:");
 
     println!("  Part 1: {}", part_1::sol(&input));
-    // println!("  Part 2: {}", part_2::sol(&input));
+    println!("  Part 2: {}", part_2::sol(&input));
 }
